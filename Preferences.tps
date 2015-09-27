@@ -2,6 +2,8 @@
 <workbook>
   <preferences>
   
+    <!-- Undocumented, not supported by anyone at Tableau, ever. -->
+  
     <!-- Change color worksheet background -->
     <preference name='ui.worksheet.background.color' value='#0ff5ec' />
     
